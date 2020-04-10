@@ -1,0 +1,49 @@
+.list {
+   color: blue;
+}
+.tir {
+    font-size:1.5em;
+    font-weight: 600;
+    color:chocolate;
+}
+body {
+    text-align: center;
+    font-size: 3em;
+    
+    
+    
+}
+.tor {
+    color: darkblue;
+    font-size: 1.5em;
+    font-weight: 600;
+    
+    
+}
+.tar {
+    color: darkred;
+    font-size: 1.5em;
+    font-weight: 600;
+    
+    
+    
+}
+.f {
+ list-style: none;
+    
+    
+    
+}
+.g {
+    list-style: none;
+    
+}
+.one {
+    color: coral;
+}
+.two {
+    color: darkslategray;
+}
+.three {
+    color: fuchsia
+}
